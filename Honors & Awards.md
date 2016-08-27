@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Honors & Awards
 ---
 
 <p class="message">
