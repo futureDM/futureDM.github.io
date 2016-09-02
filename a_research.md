@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archives
+title: Research & Publication
 ---
 
 <ul class="tags-box">
