@@ -19,7 +19,7 @@ title: Archives
 {{ post.date | date:"%Y-%m-%d" }}
 </time>
 &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | capitalize }}</a><br />
-{{ post.content }}
+{{ post.content(0:50) }}
 {% endfor %}
 
 {% else %}
