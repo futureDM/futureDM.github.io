@@ -3,28 +3,55 @@ layout: page
 title: Curriculum Vitae
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## EDUCATION
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### (09/2014 - 07/2017) Graduate School Of Chinese Academy Of Social Sciences
+* Master in Economics ( National economics )
+* overall GPA:90/100           overall Ranking: 1/93
 
-There are currently two themes built on Poole:
+### (09/2010 - 06/2014) Guanghua School Of Management, Peking University
+* Visiting student
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### (08 - 09/2015) The Wang Yanan Institute for Studies in Economics, Xiamen University
+* summer school program
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### (09/2010 - 06/2014) Hebei Agricultural University
+* Bachelor of Economics
+* Major GPA: 88/100            overall Ranking: 5/78
 
-## Setup
 
-Some fun facts about the setup of this project include:
+## Meetings
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+### Participated in Finance 40 Forum 87th internal seminar: “Big Data Analysis of Five-step method--A case study of new economic index”. raised some questions about the credibility of the research under the big data, and articipated in the discussion.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+### Participated in Finance 40 Forum 88th internal seminar: “The population factor in China’s economic growth”. raised some questions about the difference between theoretical research with practical research, and participated in the discussion.
 
-Thanks for reading!
+### Participated in the third, forth, fifth workshop of The Camphor Economics (Beijing).
+
+
+## Teaching Assistant
+
+### Advanced Western economics’ teaching assistant，the Graduate school of the Chinese Academy of Social Sciences.
+* Corrected students’ homework and explained the exercises after class. 
+* After school hours, offered classes to students about the LS-LM, Solow, Ramesy RBC model, economic applications of dynamic models, the extend of mathematical knowledge as well as classic paper.
+
+
+## Research Assistant
+
+### Research assistant of the China International Engineering Consulting.
+Completed several research projects’ field research and reports, for instance, “Discussion on Nursing Service Mode”, “Old industrial area public service platform construction”, “Implementation plan about the Sino-Korean international cooperation demonstration area planning” and Research on economic circle collaborative development between Guangzhou, Foshan, Zhaoqing, Qingyuan, Yuanfu and Shaoguan city”.
+
+### Research assistant of the professor Yang Haifen of Agriculture.
+Wrote several research projects’ report, for instance, “Study on the education and training of rural woman in Hebei province”, “Development situation and countermeasures of new rural financial institutions in Hebei province” and “Regulatory status and countermeasures of agricultural products marketing in Hebei province”, and finally formed paper.
+ 
+
+## Skills
+* Stata/Eviews, Matlab software, and DSGE, CGE .
+
+
+
+
+
+
+
+
