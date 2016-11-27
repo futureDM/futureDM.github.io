@@ -3,4 +3,4 @@ layout: page
 title: Skills
 ---
 
-##Stata/Eviews, Matlab software, and DSGE, CGE .
+Stata/Eviews, Matlab software, and DSGE, CGE .
