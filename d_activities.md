@@ -10,7 +10,7 @@ title: Activities
 * Corrected students’ homework and explained the exercises after class. 
 * After school hours, offered classes to students about the LS-LM, Solow, Ramesy RBC model, economic applications of dynamic models, the extend of mathematical knowledge as well as classic paper.
 
-##
+
 
 ## 2. Research Assistant
 
@@ -20,7 +20,7 @@ Completed several research projects’ field research and reports, for instance,
 ### 2.2 Research assistant of the professor Yang Haifen of Agriculture.
 Wrote several research projects’ report, for instance, “Study on the education and training of rural woman in Hebei province”, “Development situation and countermeasures of new rural financial institutions in Hebei province” and “Regulatory status and countermeasures of agricultural products marketing in Hebei province”, and finally formed paper.
  
-##
+
  
 ## 3. Conferences
 
@@ -31,7 +31,7 @@ Wrote several research projects’ report, for instance, “Study on the educati
 ### 3.3 Participated in the third, forth, fifth workshop of The Camphor Economics (Beijing).
 
 
-##
+
 
 
 ## 4. Selected Extra-curriculum
