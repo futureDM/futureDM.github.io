@@ -5,18 +5,18 @@ title: Honors & Awards
 
 
 
-## National scholarship	(TOP: 1%)	12/2015
+1. National scholarship	(TOP: 1%)	12/2015
 
-## National scholarship	(TOP: 1%)	10/2016
+2. National scholarship	(TOP: 1%)	10/2016
 
-## Major award	(TOP: 1%)	12/2015
+3. Major award	(TOP: 1%)	12/2015
 
-## Major award	(TOP: 1%)	10/2016
+4. Major award	(TOP: 1%)	10/2016
 
-## Excellent graduate student cadres	(TOP: 10%)	03/2015
+5. Excellent graduate student cadres	(TOP: 10%)	03/2015
 
-## Second prize of Winter vacation research	(TOP: 10%)	03/2015
+6. Second prize of Winter vacation research	(TOP: 10%)	03/2015
 
-## Second prize of Winter vacation research	(TOP: 10%)	03/2016
+7. Second prize of Winter vacation research	(TOP: 10%)	03/2016
 
-## Freshman Scholarship	(TOP: 1%)	09/2014
+8. Freshman Scholarship	(TOP: 1%)	09/2014
