@@ -5,7 +5,7 @@ title: Education
 
 
 ### (09/2014 - 07/2017) Graduate School Of Chinese Academy Of Social Sciences
-* Master in Economics ( National economics )
+* Master in Economics (National Economics)
 * Overall GPA: 3.76/4 (overall Ranking: 3/93)
 
 ### (09/2010 - 06/2014) Guanghua School Of Management, Peking University
@@ -16,7 +16,7 @@ title: Education
 
 ### (09/2010 - 06/2014) Hebei Agricultural University
 * Bachelor of Economics
-* Major GPA: 3.4/4 (overall Ranking: 7/78)
+* Major GPA: 3.4/3 (overall Ranking: 7/78)
 
 
 
